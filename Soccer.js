@@ -1,4 +1,4 @@
-import Viewport from "../shared/engine/Viewport2.js";
+import Viewport from "../shared/engine/Viewport.js";
 import Pitch from "./components/Pitch.js";
 
 const viewport = new Viewport(730, 395);
