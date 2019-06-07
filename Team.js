@@ -1,7 +1,7 @@
 import Player from "./Players.js";
 import { team as C, pitch as offset } from "./Constants.js";
 import { states } from "./TeamStates.js";
-import Vector from "../shared/engine/Vector2.js";
+import Vector from "../shared/engine/Vector.js";
 
 export default class Team {
     constructor(isHome, color, pitch, tRegion, ball) {
