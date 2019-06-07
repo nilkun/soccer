@@ -1,1 +1,1 @@
-simple soccer demo: nilkun.github.io/soccer/
+simple soccer demo: https://nilkun.github.io/soccer/
