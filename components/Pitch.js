@@ -1,5 +1,5 @@
 
-import Vector from "../../shared/engine/Vector2.js";
+import Vector from "../../shared/engine/Vector.js";
 import Team from "./Team.js";
 import DebugMan from "./DebugMan.js";
 
