@@ -1,4 +1,4 @@
-import Vector from "../../../shared/engine/Vector2.js";
+import Vector from "../../../shared/engine/Vector.js";
 
 // import { playerConstants as C } from "../Constants.js";
 
