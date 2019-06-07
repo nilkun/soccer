@@ -1,5 +1,5 @@
 import Pitch from "./Pitch.js";
-import Vector from "../shared/engine/Vector2.js";
+import Vector from "../shared/engine/Vector.js";
 
 export default class SoccerBall {
     constructor() {
