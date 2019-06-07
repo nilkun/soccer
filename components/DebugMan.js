@@ -1,4 +1,4 @@
-import Vector from "../../shared/engine/Vector2.js";
+import Vector from "../../shared/engine/Vector.js";
 
 export default class DebugMan {
     constructor() {
