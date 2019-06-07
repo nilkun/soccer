@@ -1,6 +1,6 @@
 import STATES from "./states/Player.js";
 import { playerConstants as C } from "./Constants.js";
-import Vector from "../../shared/engine/Vector2.js";
+import Vector from "../../shared/engine/Vector.js";
 
 export default class Player {
     constructor(homeIndex, team) {
